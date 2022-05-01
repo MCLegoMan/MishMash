@@ -1,1 +1,5 @@
-The source code is not currently avaliable.
+MCLegoMan License
+-----------------
+DO NOT REDISTRIBUTE
+
+Full License coming soon.
